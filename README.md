@@ -11,9 +11,7 @@
 I'm Alief Adam, a passionate Fullstack Web Developer with a keen eye for detail and a love for creating stunning web applications. With a strong foundation in HTML, CSS, and JavaScript, I strive to build websites that not only look great but also provide an excellent user experience.
 
 ### My Tech Stack
-- ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-- ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### What I Do
 - Crafting responsive and user-friendly web applications
