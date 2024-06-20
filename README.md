@@ -3,7 +3,7 @@
 
 I am a 6th-semester student at Universitas 17 Agustus 1945, Surabaya, with a primary focus on Fullstack Web development. I possess skills in designing responsive and engaging user interfaces and am adept at tackling complex challenges with strong problem-solving abilities. Additionally, I have experience in backend development, including API creation and database integration. My effective communication skills and ability to work collaboratively have been honed throughout my academic journey.
 
-### My Skill
+## My Skill
 
 
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -19,7 +19,6 @@ I am a 6th-semester student at Universitas 17 Agustus 1945, Surabaya, with a pri
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-0096D6?style=for-the-badge&logo=rest-api&logoColor=white)
 
----
 
 ## Get In Touch
 
