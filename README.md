@@ -1,10 +1,6 @@
 # Hi there, I'm Alief Adam! 👋
 
-### Fullstack Web Developer
-
----
-
-## About Me
+--
 
 I am a 6th-semester student at Universitas 17 Agustus 1945, Surabaya, with a primary focus on Fullstack Web development. I possess skills in designing responsive and engaging user interfaces and am adept at tackling complex challenges with strong problem-solving abilities. Additionally, I have experience in backend development, including API creation and database integration. My effective communication skills and ability to work collaboratively have been honed throughout my academic journey.
 
