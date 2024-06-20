@@ -1,14 +1,12 @@
 # Hi there, I'm Alief Adam! 👋
 
-### Fullstack Web Developer | HTML, CSS, JavaScript Enthusiast
+### Fullstack Web Developer
 
 ---
 
-![Profile Banner](https://your-image-url.com/banner.png)
-
 ## About Me
 
-I'm Alief Adam, a passionate Fullstack Web Developer with a keen eye for detail and a love for creating stunning web applications. With a strong foundation in HTML, CSS, and JavaScript, I strive to build websites that not only look great but also provide an excellent user experience.
+I am a 6th-semester student at Universitas 17 Agustus 1945, Surabaya, with a primary focus on Fullstack Web development. I possess skills in designing responsive and engaging user interfaces and am adept at tackling complex challenges with strong problem-solving abilities. Additionally, I have experience in backend development, including API creation and database integration. My effective communication skills and ability to work collaboratively have been honed throughout my academic journey.
 
 ### My Tech Stack
 
