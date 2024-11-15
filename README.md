@@ -17,7 +17,6 @@ I am a 7th-semester student at Universitas 17 Agustus 1945, Surabaya, with a pri
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-0096D6?style=for-the-badge&logo=rest-api&logoColor=white)
 
 
 ## Get In Touch
